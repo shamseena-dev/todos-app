@@ -1,4 +1,6 @@
--Todo List managing App built using React ,integrated with Meterialize- CSS
+## Todo-App -(React)
+
+- Todo List managing App built using React ,integrated with Meterialize- CSS
 - Continuous Deployment done via Netlify
 
 =================
